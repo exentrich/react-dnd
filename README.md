@@ -94,6 +94,7 @@ npm install --save react-dnd
 ## Production Usage
 
 * [Stampsy](http://stampsy.com), where it was originally developed, is using React DnD for the post editor.
+* [Raindrop New Tab](https://chrome.google.com/webstore/detail/raindropio-new-tab-speed/knifgjkgmgdinjeecneiphoniamhgbof) Material design inspired New Tab extension.
 * [Add your company!](https://github.com/gaearon/react-dnd/edit/master/README.md)
 
 ## See Also
